@@ -28,3 +28,7 @@
 ### 😍 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qus0in&layout=compact)
+
+### 🤖 Algorithm Ranking
+
+![프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qus0in)](https://solved.ac/profile/qus0in)
