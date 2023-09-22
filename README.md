@@ -1,3 +1,4 @@
+<div style="text-align:center">
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
 <!-- ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient) -->
 <!-- https://capsule-render.vercel.app/api : end-point -->
@@ -32,3 +33,4 @@
 ### 🤖 Algorithm Ranking
 
 [![프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qus0in)](https://solved.ac/profile/qus0in)
+</div>
