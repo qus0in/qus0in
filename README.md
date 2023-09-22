@@ -1,4 +1,5 @@
 ### Hi there 👋
+* 저는 완벽한 풀스택 개발자입니다!🤣
 
 <!--
 **qus0in/qus0in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
