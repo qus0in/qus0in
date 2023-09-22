@@ -24,3 +24,7 @@
 **👻 Infrastructre & Tools**
 
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
+
+### 😍 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qus0in&layout=compact)
