@@ -1,5 +1,3 @@
-<div style="text-align:center">
-
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
 <!-- ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient) -->
 <!-- https://capsule-render.vercel.app/api : end-point -->
@@ -7,7 +5,9 @@
 <!-- height : 높이 200px ~ 360px -->
 <!-- text : 말그대로 텍스트인데, 띄어쓰기는 + 또는 %20 -->
 
+<p style="text-align:center">
 ### 🏋️‍♂️ 파이썬과 자바를 활용하여 효율적인 소프트웨어를 구현하는 신입 개발자 변영인입니다.
+</p>
 <!-- 챗GPT와 이모지 사용해서 본인의 인사말을 작성 -->
 <!-- # : 제목 크기 => h 태그들과 비슷, 많을 수록 작아짐. # ~ #6 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqus0in&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -34,4 +34,3 @@
 ### 🤖 Algorithm Ranking
 
 [![프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qus0in)](https://solved.ac/profile/qus0in)
-</div>
