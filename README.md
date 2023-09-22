@@ -15,5 +15,8 @@
 <!-- ![]() : 이미지 문법 -> () 안에 있는 링크로 이미지를 표현하고, [] 안에 있는 텍스트로 description (이미지가 짤렸을 경우 설명) -->
 <!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqus0in&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false) -->
 
+### 👍 Skills
 <!-- ![로고명](https://img.shields.io/badge/로고명-배경색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상이름) -->
+** 🤠 Languages & Frameworks **
+
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
