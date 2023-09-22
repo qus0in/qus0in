@@ -31,4 +31,4 @@
 
 ### 🤖 Algorithm Ranking
 
-![프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qus0in)](https://solved.ac/profile/qus0in)
+[![프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qus0in)](https://solved.ac/profile/qus0in)
