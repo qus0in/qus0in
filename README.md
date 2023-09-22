@@ -1,3 +1,10 @@
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
+<!-- ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient) -->
+<!-- https://capsule-render.vercel.app/api : end-point -->
+<!-- type : waving????? : 모양 -->
+<!-- height : 높이 200px ~ 360px -->
+<!-- text : 말그대로 텍스트인데, 띄어쓰기는 + 또는 %20 -->
+
 ### 🏋️‍♂️ 파이썬과 자바를 활용하여 효율적인 소프트웨어를 구현하는 신입 개발자 변영인입니다.
 <!-- 챗GPT와 이모지 사용해서 본인의 인사말을 작성 -->
 <!-- # : 제목 크기 => h 태그들과 비슷, 많을 수록 작아짐. # ~ #6 -->
