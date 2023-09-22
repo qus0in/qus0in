@@ -17,6 +17,10 @@
 
 ### 👍 Skills
 <!-- ![로고명](https://img.shields.io/badge/로고명-배경색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상이름) -->
-** 🤠 Languages & Frameworks **
+**🤠 Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+
+**👻 Infrastructre & Tools**
+
+![Postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
