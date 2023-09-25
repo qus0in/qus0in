@@ -1,38 +1,7 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
-<!-- ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient) -->
-<!-- https://capsule-render.vercel.app/api : end-point -->
-<!-- type : waving????? : 모양 -->
-<!-- height : 높이 200px ~ 360px -->
-<!-- text : 말그대로 텍스트인데, 띄어쓰기는 + 또는 %20 -->
+### 👋 Hello I'm Young-in.
 
-<div align="center">
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) ![Django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white) ![OpenJDK](https://img.shields.io/badge/java-437291.svg?&style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/awslambda-FF9900.svg?&style=for-the-badge&logo=awslambda&logoColor=white) ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white) 
 
-### 🏋️‍♂️ 파이썬과 자바를 활용하여 효율적인 소프트웨어를 구현하는 신입 개발자 변영인입니다.
-
-</div>
-<!-- 챗GPT와 이모지 사용해서 본인의 인사말을 작성 -->
-<!-- # : 제목 크기 => h 태그들과 비슷, 많을 수록 작아짐. # ~ #6 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqus0in&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!-- 조회수 카운터 -->
-<!-- []() : 링크 문법 -> () 안에 있는 링크로 연결하는 서식을 걸고, [] 안에 있는 텍스트 혹은 이미지로 표시 -->
-<!-- [...](https://hits.seeyoufarm.com) -->
-<!-- ![]() : 이미지 문법 -> () 안에 있는 링크로 이미지를 표현하고, [] 안에 있는 텍스트로 description (이미지가 짤렸을 경우 설명) -->
-<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqus0in&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false) -->
-
-### 👍 Skills
-<!-- ![로고명](https://img.shields.io/badge/로고명-배경색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상이름) -->
-**🤠 Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-
-**👻 Infrastructre & Tools**
-
-![Postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white)
-
-### 😍 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qus0in&layout=compact)
-
-### 🤖 Algorithm Ranking
-
-[![프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qus0in)](https://solved.ac/profile/qus0in)
+|프로젝트|개요|스크린샷|
+|-|-|-|
+|GitHub Profile 생성기<br>[(바로가기)](https://qus0in.github.io/paste_profile/)|![Vue.js](https://img.shields.io/badge/vuejs-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white) <br> GitHub Profile의 핵심 구성요소들을 간편하게 생성할 수 있는 페이지 구현|<img src="https://github.com/qus0in/qus0in/assets/50694786/c67b9903-c233-48d8-8bd0-898f3b03a990)https://github.com/qus0in/qus0in/assets/50694786/c67b9903-c233-48d8-8bd0-898f3b03a990" width="200">|
