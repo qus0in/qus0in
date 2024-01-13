@@ -6,3 +6,6 @@
 |-|-|-|
 |GitHub Profile 생성기<br>[(바로가기)](https://qus0in.github.io/paste_profile/)|![Vue.js](https://img.shields.io/badge/vuejs-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white) <br> GitHub Profile의 핵심 구성요소들을 간편하게 생성할 수 있는 페이지 구현|<img src="https://user-images.githubusercontent.com/50694786/280442609-439bceb6-5c6d-4e40-a77e-5593c1bf0894.png" width="200">|
 |자습용 타이머<br>[(바로가기)](https://qus0in.github.io/lab_timer/)|![Vue.js](https://img.shields.io/badge/vuejs-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white) <br> 자습 또는 실습 시 자동으로 학습/쉬는 시간을 알림음으로 알려주는 타이머|<img src="https://user-images.githubusercontent.com/50694786/280442470-ee396a2c-a640-4394-bd15-7b6f7939ae04.png" width="200">|
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=qus0in)](https://solved.ac/qus0in)
