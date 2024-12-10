@@ -1,8 +1,42 @@
-![Java](https://img.shields.io/badge/java-437291.svg?&style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white) <!-- 💬 Langauges -->
-![Vite](https://img.shields.io/badge/vite-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white) ![React Query](https://img.shields.io/badge/reactquery-FF4154.svg?&style=for-the-badge&logo=reactquery&logoColor=white) ![React Router](https://img.shields.io/badge/reactrouter-CA4245.svg?&style=for-the-badge&logo=reactrouter&logoColor=white) ![Ant Design](https://img.shields.io/badge/antdesign-0170FE.svg?&style=for-the-badge&logo=antdesign&logoColor=white) <!-- 📚 Libraries & Frameworks -->
-![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/cloudflare-F38020.svg?&style=for-the-badge&logo=cloudflare&logoColor=white) ![OpenAI](https://img.shields.io/badge/openai-412991.svg?&style=for-the-badge&logo=openai&logoColor=white) <!-- 🛠️ Services -->
+# 🤗 안녕하세요, 변영인 입니다
 
-| 제목 | 설명 | 기술 스택 | 이미지 | 깃헙 | 링크 |
-| --- | --- | --- | --- | --- | --- |
-| **mkfolio** | 서버리스 아키텍처와 최신 기술을 활용한 포트폴리오 정리 툴을 개발했습니다. Cloudflare Workers와 TypeScript로 구현하고, GPT-4o mini로 JSON Schema 출력 최적화, Google Analytics와 React Helmet으로 SEO 개선 및 사용자 행동 분석을 적용했습니다. Ant Design으로 UI를 설계하며, 프로젝트를 혼자 관리하여 높은 생산성을 유지했습니다. | ![openai-gpt4o-mini](https://img.shields.io/badge/openai%20gpt4o%20mini-0A0A0A?style=plastic) ![cloudflare-worker](https://img.shields.io/badge/cloudflare%20worker-0A0A0A?style=plastic) ![vite-react-ts](https://img.shields.io/badge/vite%20react%20ts-0A0A0A?style=plastic) ![react-router](https://img.shields.io/badge/react%20router-0A0A0A?style=plastic) ![ant-design](https://img.shields.io/badge/ant%20design-0A0A0A?style=plastic) ![markdown-editor](https://img.shields.io/badge/markdown%20editor-0A0A0A?style=plastic) ![google-analytics](https://img.shields.io/badge/google%20analytics-0A0A0A?style=plastic) | ![](https://raw.githubusercontent.com/qus0in/qus0in/refs/heads/main/mkpolio_demo.gif) | [🐈‍⬛(Client)](https://github.com/qus0in/mkfolio) [🐈‍⬛(API)](https://github.com/qus0in/mkfolio-api) | [🔗](https://mkfolio.vercel.app/) |
+## 🎬 소개
 
+- 🧑‍🏫 `풀스택 엔지니어`, `ML 엔지니어` 과정을 주로 가르치고 있습니다.
+
+- 🧑‍💻 `알고리즘`, `형상관리`, `협업도구`, `DevOps` 쪽도 종종 특강을 진행합니다.
+
+    - 🐳 [인프라 초보를 위한 최소한의 도커 실습 (24.06.20)](https://velog.io/@turingapple/%E3%80%8E%ED%8A%9C%EB%A7%81%EC%9D%98-%EC%82%AC%EA%B3%BC%E3%80%8F-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B0%95%EC%9D%98-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B5%9C%EC%86%8C%ED%95%9C%EC%9D%98-%EB%8F%84%EC%BB%A4-%EC%8B%A4%EC%8A%B5)
+
+    - 🐈‍⬛ [워크플로우 자동화를 위한 GitHub Actions 입문 (24.04.25)](https://velog.io/@turingapple/%E3%80%8E%ED%8A%9C%EB%A7%81%EC%9D%98-%EC%82%AC%EA%B3%BC%E3%80%8F-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90-%EA%B0%95%EC%9D%98-GitHub-Actions-%EC%9E%85%EB%AC%B8)
+
+- 🥷 `번역`, `해커톤`도 가끔 합니다
+
+    - 🪴 [실전! 스프링 부트 3 & 리액트로 시작하는 모던 웹 애플리케이션 개발 (2024)](https://product.kyobobook.co.kr/detail/S000214896424) 
+
+    - 🏆 [AI Hellothon 2024, TOP3 (우수상)](https://brunch.co.kr/@concat/10)
+
+## 🛠 주요 기술 스택
+
+|분야|항목|
+|-|-|
+|프로그래밍 언어|![Java](https://img.shields.io/badge/java-437291.svg?&style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)|
+|프런트엔드|![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/next-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)|
+|백엔드|![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white) ![Django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white) ![Express](https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)|
+|DB|![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white) |
+|인프라| ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/aws-FF9900.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)|
+|CI/CD|![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)|
+|AI/ML|![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) ![OpenAI](https://img.shields.io/badge/openai-412991.svg?&style=for-the-badge&logo=openai&logoColor=white)|
+|ETC|![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)|
+
+## 🧸 프로젝트
+
+### 마크폴리오
+> AI 기반, 프로젝트/포트폴리오 정리 툴 (마크다운 포맷)
+* 배포 : https://mkfolio.vercel.app
+* 저장소 : https://github.com/qus0in/mkfolio
+
+### GitHub Profile 생성기
+> GitHub Profile README.md에 넣을 컴포넌트를 간편 생성
+* 배포 : https://qus0in.github.io/paste_profile
+* 저장소 : https://github.com/qus0in/paste_profile
