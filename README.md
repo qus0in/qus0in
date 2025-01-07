@@ -10,9 +10,9 @@
 
     - 🐈‍⬛ [워크플로우 자동화를 위한 GitHub Actions 입문 (24.04.25)](https://velog.io/@turingapple/%E3%80%8E%ED%8A%9C%EB%A7%81%EC%9D%98-%EC%82%AC%EA%B3%BC%E3%80%8F-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90-%EA%B0%95%EC%9D%98-GitHub-Actions-%EC%9E%85%EB%AC%B8)
 
-- 🥷 `번역`, `해커톤`도 가끔 합니다
+- `번역`, `해커톤`도 가끔 합니다
 
-    - 🪴 [실전! 스프링 부트 3 & 리액트로 시작하는 모던 웹 애플리케이션 개발 (2024)](https://product.kyobobook.co.kr/detail/S000214896424) 
+    - [실전! 스프링 부트 3 & 리액트로 시작하는 모던 웹 애플리케이션 개발 (2024)](https://product.kyobobook.co.kr/detail/S000214896424) 
 
     - 🏆 [AI Hellothon 2024, TOP3 (우수상)](https://brunch.co.kr/@concat/10)
 
