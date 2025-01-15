@@ -14,7 +14,7 @@
 
     - [실전! 스프링 부트 3 & 리액트로 시작하는 모던 웹 애플리케이션 개발 (2024)](https://product.kyobobook.co.kr/detail/S000214896424) 
 
-    - 🏆 [AI Hellothon 2024, TOP3 (우수상)](https://brunch.co.kr/@concat/10)
+    - 🏆 [AI Hellothon 2024, TOP3 (우수상)](https://brunch.co.kr/@morgan25/10)
 
 ## 🛠 주요 기술 스택
 
