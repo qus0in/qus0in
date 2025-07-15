@@ -1,8 +1,13 @@
+<style>
+  img {
+    width: 360px;
+  }
+</style>
 ```
 Vanitas vanitatum, dixit Ecclesiastes, vanitas vanitatum et omnia vanitas.
 - Ecclesiastes 1:2
 ```
-
+![vanitas](vanitas.png)
 ```typescript
 const me: Profile = {
   name: "변영인",
@@ -20,3 +25,4 @@ const me: Profile = {
   developsSideProjects: true
 };
 ```
+![avatar](avatar.png)
