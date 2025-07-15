@@ -1,8 +1,3 @@
-<style>
-  img {
-    width: 360px;
-  }
-</style>
 ```
 Vanitas vanitatum, dixit Ecclesiastes, vanitas vanitatum et omnia vanitas.
 - Ecclesiastes 1:2
