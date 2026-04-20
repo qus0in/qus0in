@@ -1,23 +1,10 @@
-```
-Vanitas vanitatum, dixit Ecclesiastes, vanitas vanitatum et omnia vanitas.
-- Ecclesiastes 1:2
-```
-![vanitas](vanitas.png)
-```typescript
-const me: Profile = {
-  name: "변영인",
-  role: "프로그래머, 코딩 강사",
-  language: ["Java", "JS/TS", "Python"],
-  teachingFocus: ["웹 애플리케이션", "AI", "자료구조/알고리즘"],
-  stack: ["Spring Boot", "React", "Supabase", "Cloudflare", "Docker"],
-  thoroughWithDeploymentAndVersioning: true,
-  usesAIIntegration: true,
-  isMentor: true,
-  buildsProductivityFrameworks: true,
-  interestedInFinanceAutomation: true,
-  prefersStructuredDocs: true,
-  valuesAccuracy: true,
-  developsSideProjects: true
-};
-```
-![avatar](avatar.png)
+# Hello👋! I'm Young-in
+
+- **웹 애플리케이션 서버**를 만들고 관리하는 법을 주로 가르칩니다 👨‍🏫
+  - `Spring Boot` 기반 웹앱 설계와 구현을 위해 필요한 내용들을 가르칩니다
+  - `LLM`을 활용하여 생산성을 높이는 법과 해당 API를 활용하여 서비스를 만드는 법도 가르칩니다
+
+- 코딩 패러다임의 변화에 적응하기 위해 아둥바둥 중입니다 👨‍💻
+  - 평소엔 `NextJS + Cloudflare`로 개인적으로 쓸 툴을 만드는 걸 좋아합니다
+  - `Codex`, `Claude Code`, `Antigravity` 등을 활용하여 **에이전틱 코딩**을 진행합니다
+  - `AGENT.md`, `DESIGN.md`, `Skills` 등을 통해 **하네스 엔지니어링**을 적용해보고 있습니다
