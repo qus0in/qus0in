@@ -11,7 +11,7 @@
   - `AGENT.md`, `Skills`, `DESIGN.md` 등을 통해 **하네스 엔지니어링**을 적용해보고 있습니다
 
 - 코딩, AI 시대의 지식 변화를 반영한 자료를 업데이트하고 있습니다 ✍️
-  - [고깃집 순한맛 — Git·GitHub 입문 12강](https://echo.qus0in.dev/git-easy/): 저장소 만들기부터 커밋, 원격 연결, 브랜치 병합까지 다룹니다.
-  - [Go Git 集 과정](https://echo.qus0in.dev/git/): Git의 버전 관리와 GitHub 협업을 익히는 교안입니다.
+  - [Git·GitHub 보통맛](https://echo.qus0in.dev/git/): Git 설치부터 에이전트(OpenCode) 활용을 거쳐 Markdown과 GitHub를 통한 프로젝트 운영을 배웁니다.
+  - [Git·GitHub 순한맛](https://echo.qus0in.dev/git-easy/): 터미널에 낯선 분들을 위해 Markdown과 GitHub를 시작으로 ChatGPT 플러그인으로 응용해보고 Git의 원리를 CLI로 익힙니다.
 
 ![KISS](image.png)
